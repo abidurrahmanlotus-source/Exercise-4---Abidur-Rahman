@@ -8,4 +8,4 @@ creating a README, and making the repository publicly accessible.
 - A Python program demonstrating basic programming concepts.
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository: git clone
